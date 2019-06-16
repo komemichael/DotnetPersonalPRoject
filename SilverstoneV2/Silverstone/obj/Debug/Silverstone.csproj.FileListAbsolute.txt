@@ -1,0 +1,14 @@
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\Silverstone.exe.config
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\Silverstone.exe
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\Silverstone.pdb
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.Form1.resources
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.Properties.Resources.resources
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.csproj.GenerateResource.Cache
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.exe
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.pdb
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.Form2.resources
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\SimpleTCP.dll
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\obj\Debug\Silverstone.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\Database1.mdf
+C:\Users\Owner\Dropbox\Projects\Personal_Project\KomeAppDotNet\Silverstone\Silverstone\bin\Debug\Database1_log.ldf
